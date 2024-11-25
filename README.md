@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a big school project for this semester! **Termin Oppgave Høst**
 
-- 🌱 I’m currently learning **C#, Python,.NET, React and Databases**
+- 🌱 I’m currently learning these languages at the beginner level **C#, Python,.NET, React and Databases**
 
 - 🌏 im based in Oslo, **Norway**
 
