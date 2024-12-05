@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amin Alizadeh</h1>
 <h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and aim to secure an Apprenticeship for hands-on experience. I thrive on challenges, teamwork, and innovation.</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
 - 🔭 I’m currently working on a big school project for this semester! **Termin Oppgave Høst**
 
 - 🌱 I’m currently learning these languages at the beginner level **C#, Python,.NET, React and Databases**
@@ -8,6 +10,8 @@
 - 🌏 im based in Oslo, **Norway**
 
 - 📫 How to reach me **alizadehamin31@gmail.com**
+
+- 🎯 Goals: Hopefully get a apprenticeship and learn new coding languages!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
