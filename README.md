@@ -2,7 +2,7 @@
 <h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and aim to secure an Apprenticeship for hands-on experience. I thrive on challenges, teamwork, and innovation.</h3>
 
 
-- 🔭 I’m currently working on a big school project for this semester! **Termin Oppgave Høst**
+- 🔭 I’m currently working on a big school project for this exam! 
 
 - 🌱 I’m currently learning these languages at the beginner level **C#, Python,.NET, React and Databases**
 
