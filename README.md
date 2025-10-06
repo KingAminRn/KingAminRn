@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alizadehamin31@gmail.com**
 
-- 🎯 Goals: Hopefully get a apprenticeship and learn new coding languages!
+- 🎯 Goals: apprentice with Experis at Statnett!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
