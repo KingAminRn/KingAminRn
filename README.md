@@ -2,15 +2,15 @@
 <h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and aim to secure an Apprenticeship for hands-on experience. I thrive on challenges, teamwork, and innovation.</h3>
 
 
-- 🔭 currently a apprentice learning new things and systems 
+- 🔭 currently a: **apprentice learning new things and systems**
 
 - 🌱 I’m currently learning these languages at the beginner level **C#, Python,.NET, React and Databases**
 
-- 🌏 im based in Oslo, **Norway**
+- 🌏 im based in **Oslo, Norway**
 
 - 📫 How to reach me **alizadehamin31@gmail.com**
 
-- 🎯 Status: apprentice with Experis at Statnett!
+- 🎯 Status: **apprentice with Experis at Statnett!**
 
 - ⚡ Fun fact **I often code projects for fun and i like to draw and color**
 
