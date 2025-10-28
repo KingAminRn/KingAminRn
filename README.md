@@ -12,6 +12,8 @@
 
 - 🎯 Status: apprentice with Experis at Statnett!
 
+- ⚡ Fun fact **I often code projects for fun and i like to draw and color**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
