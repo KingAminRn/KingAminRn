@@ -14,7 +14,8 @@
 
 - ⚡ **I often code projects for fun and i like to draw and color**
 
-<h3 align="left">i want to make more projects, dont have a lot of commits now, but will hopefully have more in the future.:</h3>
+<h3 align="left">i want to make more projects, dont have a lot of commits now, but will hopefully have more in the future:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=KingAminRn&show_icons=true&theme=synthwave" alt="GitHub Stats" height="160"/>
 <p align="left">
 </p>
 
