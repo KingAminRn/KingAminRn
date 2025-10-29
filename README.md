@@ -14,7 +14,7 @@
 
 - ⚡ **I often code projects for fun and i like to draw and color**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">i want to make more projects, dont have a lot of commits now, but will hopefully have more in the future.:</h3>
 <p align="left">
 </p>
 
