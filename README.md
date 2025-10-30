@@ -4,7 +4,7 @@
 
 - 🔭 currently a: **apprentice learning new things and systems**
 
-- 🌱 I’m currently learning these languages at the beginner level **C#, Python,.NET, React and Databases**
+- 🌱 I’m currently learning these languages at the beginner level **Python, TypeScript, React and Databases**
 
 - 🌏 im based in **Oslo, Norway**
 
