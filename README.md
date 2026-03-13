@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amin Alizadeh</h1> (https://github.com/user-attachments/assets/4a75bb81-d0f4-44bb-936f-996578355598)
+<h1 align="center">Hi 👋, I'm Amin Alizadeh</h1>
 
 <h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and i am now an Apprentice, gaining practical experience while continuing to learn and grow. I thrive on challenges, teamwork, and innovation.</h3>
 
