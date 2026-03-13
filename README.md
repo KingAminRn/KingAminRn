@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amin Alizadeh</h1>
+<h1 align="center">Hi 👋, I'm Amin Alizadeh</h1> <img src="https://media.tenor.com/3n5M1E2SxQMAAAAC/riyo-gachiakuta.gif" width="40" />
+
 
 <h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and i am now an Apprentice, gaining practical experience while continuing to learn and grow. I thrive on challenges, teamwork, and innovation.</h3>
 
