@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin Alizadeh</h1> <img src="https://media.tenor.com/3n5M1E2SxQMAAAAC/riyo-gachiakuta.gif" width="40" />
 
 
-<h3 align="center">Hei! I'm an IT VG2 student passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and i am now an Apprentice, gaining practical experience while continuing to learn and grow. I thrive on challenges, teamwork, and innovation.</h3>
+<h3 align="center">Hi! I am an apprentice/ IT-lærling, passionate about tech and problem-solving. I build coding projects, contribute to the tech community, and i am now an Apprentice, gaining practical experience while continuing to learn and grow. I thrive on challenges, teamwork, and innovation.</h3>
 
 
 - 🔭 currently a: **apprentice learning new things and systems**
@@ -14,7 +14,7 @@
 
 - 🎯 Status: **apprentice with Experis at Statnett!**
 
-- ⚡ **I often code projects for fun and i like to draw and color**
+- ⚡ **I often code projects for fun and experience**
 
 <h3 align="left"> 📊 i want to make more projects, dont have a lot of commits now, but will hopefully have more in the future:</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=KingAminRn&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" />
